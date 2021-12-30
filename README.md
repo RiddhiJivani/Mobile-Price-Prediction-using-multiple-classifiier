@@ -6,18 +6,13 @@ Mobile is playing a vital role in human life. Mobile business has become a major
 # Conclusion
 -----------------------------------------
 |Classifiers                 | Accuracy  |
------------------------------------------
+|----------------------------|-----------|
 |Decision Tree               |  0.808    |
------------------------------------------
 |Support Vector Machine      |   0.954   |
------------------------------------------
 |K nearest Neighbor          |   0.924   |
------------------------------------------
 |Gaussian NB                 |   0.842   |
------------------------------------------
 |Random Forest               |   0.876   |
------------------------------------------
 |Linear Discriminant Analysis|   0.954   |
-------------------------------------------
+
 
 This prediction will help companies estimate price of mobiles to give tough competition to other mobile manufacturer. It will be useful for Consumers to verify that they are paying best price for a mobile. We have got the best accuracy for dataset with Support Vector machine model as well as with Linear Discriminant analysis model which is nearly 95%.
